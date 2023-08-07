@@ -1,0 +1,4 @@
+.DS-Store
+.env
+vendor
+product.go
